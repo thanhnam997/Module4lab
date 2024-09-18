@@ -1,0 +1,15 @@
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.AssemblyInfoInputs.cache
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.AssemblyInfo.cs
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.csproj.CoreCompileInputs.cache
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.sourcelink.json
+/workspaces/Module4lab/Module4lab/bin/Debug/net8.0/Module4lab
+/workspaces/Module4lab/Module4lab/bin/Debug/net8.0/Module4lab.deps.json
+/workspaces/Module4lab/Module4lab/bin/Debug/net8.0/Module4lab.runtimeconfig.json
+/workspaces/Module4lab/Module4lab/bin/Debug/net8.0/Module4lab.dll
+/workspaces/Module4lab/Module4lab/bin/Debug/net8.0/Module4lab.pdb
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.dll
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/refint/Module4lab.dll
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.pdb
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/Module4lab.genruntimeconfig.cache
+/workspaces/Module4lab/Module4lab/obj/Debug/net8.0/ref/Module4lab.dll
