@@ -1,6 +1,6 @@
-﻿//Application Name : Rocket Launch
-//Deverloper: Dr. Mary lebands
-//Description: Simulates a rocket launch using loops.
+﻿// Application Name : Rocket Launch
+// Developer:Nam Thanh Trinh
+// Description: Simulates a rocket launch using loops and allows user input.
 
 using System;
 using System.Diagnostics.CodeAnalysis;
@@ -47,6 +47,21 @@ namespace RocketLaunchApp {
         Console.WriteLine($"Altitude: {altitude} km");
         Thread.Sleep(500);//wait for haft a second
        }
+ // User Input Section
+            string userInput = "";
+            // While loop that keeps executing until the user enters 'exit'
+            while (userInput != "exit") {
+                // Prompt the user for input
+                Console.Write("Enter a command (type 'exit' to quit): ");
+                // Get the input from the user
+                userInput = Console.ReadLine();
+                // Test the user input
+                if (userInput != "exit") {
+                    // Output what the user entered
+                    Console.WriteLine($"You entered: {userInput}");
+                }
+            } // End while loop
+            Console.WriteLine("Program ended. Goodbye!");
 
 
        
